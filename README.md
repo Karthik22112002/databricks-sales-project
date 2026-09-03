@@ -1,7 +1,7 @@
-# databricks-sales-project
+# Databricks-sales-project
 This porject demonstrates:
 
-## topics
+## TOPICS
 - Databricks
 - Pyspark
 - Delta Lake
